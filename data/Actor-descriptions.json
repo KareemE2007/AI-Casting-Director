@@ -1,0 +1,12 @@
+ {
+ "actors": [
+    {
+      "name": "Robert Downey Jr.",
+      "description": "Sarcastic humorous deliveries while remaining completely stonefaced, distinctive drawling voice. Frequently plays egotistical but likable scoundrels and intelligent but eccentric characters. Famous for Iron Man and Sherlock Holmes roles."
+    },
+    {
+      "name": "Chris Hemsworth",
+      "description": "Deep resonant voice and muscular physique. Best known for playing Thor in the MCU."
+    }
+  ]
+} 

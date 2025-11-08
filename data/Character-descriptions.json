@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "name": "Iron Man",
+      "aliases": ["Tony Stark"],
+      "traits":"Genius billionaire inventor, industrialist and CEO of Stark Industries",
+      "powers": "tark built an armored suit to escape captivity, which doubled as a device to keep his heart beating keeping him alive. Once he returned to the United States, Stark reinvented himself as the armor-clad superhero Iron Man."
+    },
+    {
+      "name": "Thor",
+      "aliases": ["God of Thunder"],
+      "traits": "Leaping from the legends of Norse mythology, the Asgardian God of Thunder, Thor Odinson, is the son of Odin the All-Father and Jord, Elder Goddess and spirit of the Earth. He frequently stands alongside the Avengers in the defense of the people of Midgard (Earth), often against the schemes of his adopted brother Loki.",
+      "powers": "Superhuman strength, control of lightning, and uses Mjolnir, a big cosmic hammer, as a weapon."
+    }
+  ]
+}
