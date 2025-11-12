@@ -2,15 +2,29 @@
   "characters": [
     {
       "name": "Iron Man",
-      "aliases": ["Tony Stark"],
       "traits":"Genius billionaire inventor, industrialist and CEO of Stark Industries",
       "powers": "tark built an armored suit to escape captivity, which doubled as a device to keep his heart beating keeping him alive. Once he returned to the United States, Stark reinvented himself as the armor-clad superhero Iron Man."
     },
     {
       "name": "Thor",
-      "aliases": ["God of Thunder"],
       "traits": "Leaping from the legends of Norse mythology, the Asgardian God of Thunder, Thor Odinson, is the son of Odin the All-Father and Jord, Elder Goddess and spirit of the Earth. He frequently stands alongside the Avengers in the defense of the people of Midgard (Earth), often against the schemes of his adopted brother Loki.",
       "powers": "Superhuman strength, control of lightning, and uses Mjolnir, a big cosmic hammer, as a weapon."
+    },
+    {
+      "name": "Black Widow",
+      "traits": "Natasha is a professional and sly secret agent who will get any job done, regardless of the difficulty. She went from being one of the best operatives in S.H.I.E.L.D. to a super-hero. She held her own as a part of the Avengers for years, even leading them for a time; however, she does not belong with the super-hero community due to her helping S.H.I.E.L.D. Nevertheless, she will keep her word by being behind the scenes or assisting the Avengers if needed. Despite Natasha being a super-hero, she will always resume her mission of being a spy. Nick Fury commented on Natasha that running in the shadows is what she was born to do.[136]",
+      "powers": "Artificially-Enhanced physiology, Peak Human strength and speed, enhanced durability, peak endurance, stamina, and healing, master martial artist, acrobat, and assassin"
+    },
+    {
+      "name": "Peter Quill",
+      "traits": "Leader of the Guardians of the Galaxy, Peter Quill, known as Star-Lord, brings a sassy sense of humor while protecting the universe from any and all threats.",
+      "powers": "Being gifted his superhuman abilities from a celestial being, Peter Quill had the capacity to survive in space, fly, and create force fields. He was also able to resist injuries, utilize his newfound superhuman strength, and understand alien language"
+    },
+    {
+      "name": "James Howlett",
+      "traits": "The man named Logan lives numerous lifetimes as a result of his regenerative mutation before losing his memories during a cruel experiment. But he finds a new home when he joins the ranks of the X-Men as Wolverine. With his brooding demeanor and brawling behavior, he becomes a force of goodA mutant with an unstoppable healing power, adamantium metal claws and no-nonsense attitude makes the man called Logan, one of the most ferocious heroes in the universe.",
+      "powers": "Wolverine’s skeleton is encased in adamantium, including his lethal retractable claws.Wolverine’s nearly impermeable skin protects him from projectiles and sharp weapons. Healing Factor. Enhanced senses"
+
     }
   ]
 }

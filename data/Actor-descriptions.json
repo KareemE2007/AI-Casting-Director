@@ -7,6 +7,18 @@
     {
       "name": "Chris Hemsworth",
       "description": "Deep resonant voice and muscular physique. Best known for playing Thor in the MCU."
+    },
+    {
+      "name": "Scarlett Johansson",
+      "description": "Often plays characters who look and act older than their age. Full lips and green eyes. Seductive husky voice. Contralto singing voice. Mole on her right cheek"
+    },
+    {
+      "name": "Chris Pratt",
+      "description": "Affable, gregarious if somewhat goofy persona. Says dude a lot, has a tall stature."
+    },
+    {
+      "name": "Hugh Jackman",
+      "description": "Ruggedly handsome features, renown for his persuasive american accent, muscular physique, deep resonant voice"
     }
   ]
 } 
