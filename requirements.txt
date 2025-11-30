@@ -1,6 +1,14 @@
 pandas
 numpy
-sentence-transformers
 openai
-faiss-cpu
-streamlit
+tiktoken 
+json
+sys
+os
+transformers
+plotly
+matplotlib
+scikit-learn
+torch
+torchvision
+scipy
