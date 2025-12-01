@@ -1,0 +1,84 @@
+{
+  "actors": [
+    {
+      "name": "Robert Downey Jr.",
+      "description": "Known for sharp, rapid-fire dialogue and sarcastic humor delivered with a completely straight face. Has a distinctive drawling cadence and charismatic swagger. Frequently portrays egotistical yet magnetic geniuses, scoundrels, and eccentric intellects. Famous for playing Iron Man and Sherlock Holmes."
+    },
+    {
+      "name": "Chris Hemsworth",
+      "description": "Deep, resonant voice with a relaxed Australian delivery. Muscular physique and commanding presence. Often plays heroic, physically imposing characters with a humorous or charming edge. Best known for portraying Thor in the MCU."
+    },
+    {
+      "name": "Scarlett Johansson",
+      "description": "Known for her husky, seductive voice and mature screen presence. Frequently portrays emotionally complex, mysterious, or world-weary characters. Full lips, green eyes, and trademark mole on her cheek. Recognized for action roles and dramatic performances alike."
+    },
+    {
+      "name": "Chris Pratt",
+      "description": "Casual, energetic, 'everyman' persona with frequent comedic timing. Tends to play friendly, goofy, or unexpectedly heroic characters. Known for saying 'dude' often and delivering sincere humor. Tall, athletic build. Famous for Guardians of the Galaxy and Jurassic World."
+    },
+    {
+      "name": "Hugh Jackman",
+      "description": "Rugged features, muscular physique, and commanding stage presence. Renowned for his ability to switch between dramatic intensity and musical performances. Deep resonant voice and polished American accent despite being Australian. Best known for Wolverine."
+    },
+    {
+      "name": "Tom Holland",
+      "description": "Youthful, energetic demeanor with expressive facial acting. Slight British accent even when performing American roles. Known for physically agile performances and nervous, earnest delivery. Widely recognized as Spider-Man in the MCU."
+    },
+    {
+      "name": "Zendaya",
+      "description": "Soft-spoken yet emotionally sharp acting style. Known for subtle facial expressions and grounded realism. Graceful movement from her dance background. Often portrays introspective, emotionally complex young women. Recognized for Euphoria, Dune, and the MCU."
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "description": "Commanding voice and aggressive delivery, famous for intense monologues and assertive presence. Frequently plays authoritative, sarcastic, or intimidating characters. Trademark expressive swearing style. Known for Pulp Fiction and Nick Fury in the MCU."
+    },
+    {
+      "name": "Florence Pugh",
+      "description": "Emotionally rich acting style with a grounded, naturalistic delivery. Distinctive raspy voice. Often portrays strong-willed, morally complex characters. Noted for her expressive micro-acting and intense emotional range. Known for Midsommar and Black Widow."
+    },
+    {
+      "name": "Michael B. Jordan",
+      "description": "Strong physical presence with a confident, composed delivery. Known for portraying determined, disciplined, and emotionally layered characters. Smooth voice with subtle intensity. Famous for Creed and Erik Killmonger in Black Panther."
+    },
+    {
+      "name": "Ryan Reynolds",
+      "description": "Fast-paced comedic delivery with constant sarcasm and self-aware humor. Known for witty improvisation and playful banter. Often plays charming, irreverent characters. Recognized for Deadpool and various romantic comedies."
+    },
+    {
+      "name": "Ana de Armas",
+      "description": "Soft, emotive delivery with expressive eyes. Frequently portrays mysterious or emotionally vulnerable characters. Able to blend warmth with suspense. Known for Knives Out, Blade Runner 2049, and No Time to Die."
+    },
+    {
+      "name": "Keanu Reeves",
+      "description": "Minimalist and understated acting style with calm, gentle vocal delivery. Known for quiet intensity and introverted charisma. Often plays stoic heroes, martial artists, or morally centered characters. Famous for The Matrix and John Wick series."
+    },
+    {
+      "name": "Emma Stone",
+      "description": "Playful yet emotionally grounded performances. Unique raspy voice and excellent comedic timing. Often portrays charismatic, quirky, or ambitious characters. Known for La La Land and Easy A."
+    },
+    {
+      "name": "Denzel Washington",
+      "description": "Deep, authoritative voice with precise, deliberate delivery. Known for portraying morally complex, powerful, or disciplined characters. Exceptional dramatic presence and intensity. Recognized for Training Day, Fences, and numerous award-winning roles."
+    },
+    {
+      "name": "Margot Robbie",
+      "description": "Dynamic acting range, switching between bubbly charisma and dark emotional intensity. Powerful screen presence with sharp comedic instincts. Known for Harley Quinn and dramatic roles like I, Tonya."
+    },
+    {
+      "name": "Oscar Isaac",
+      "description": "Smooth, controlled delivery with expressive emotional depth. Often plays complex, introspective, or morally ambiguous characters. Known for his roles in Star Wars, Moon Knight, and Ex Machina."
+    },
+    {
+      "name": "Pedro Pascal",
+      "description": "Warm, gravelly voice and gentle-but-tough demeanor. Often portrays protective mentor types or hardened survivors. Known for The Mandalorian, The Last of Us, and Game of Thrones."
+    },
+    {
+      "name": "Brie Larson",
+      "description": "Steady, grounded performances with emotional subtlety. Known for portraying determined, introspective characters. Recognized for Room, Captain Marvel, and her music background."
+    },
+    {
+      "name": "Idris Elba",
+      "description": "Deep, commanding voice with calm intensity. Often plays leaders, detectives, or stoic heroes. Versatile across drama, action, and comedy. Known for Luther and various blockbuster roles."
+    }
+  ]
+}
